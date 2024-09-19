@@ -1,4 +1,5 @@
 # Import necessary libraries
+# SHIFT + ENTER to run the lines of code in an interactive way.
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
